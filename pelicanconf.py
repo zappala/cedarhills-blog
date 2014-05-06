@@ -46,7 +46,7 @@ DEFAULT_PAGINATION = 10
 
 # Theme
 USER_LOGO_URL = "/images/zappala.jpg"
-THEME = "themes/pelican-blog"
+THEME = "themes/pelican-sparrow"
 
 # Plugins
 PLUGIN_PATH = 'pelican-plugins'

@@ -16,7 +16,7 @@ Please add your comments below!
 
 <!-- PELICAN_END_SUMMARY -->
 
-![town center](/images/towne_center_front.png)
+![town center](/images/towne-center/front.png)
 
 ## Background
 
@@ -32,8 +32,9 @@ retail.
 
 The planning commission has met with the developers several times, and
 a presentation has also been made to the City Council. The city held a
-public hearing for the preliminary plan on October 24th. Numerous
-residents attended and provided feedback regarding the development.
+[public hearing](http://www.cedarhills.org/node/1826) for the
+preliminary plan on October 24th. Numerous residents attended and
+provided feedback regarding the development.
 
 ## Feedback
 
@@ -87,7 +88,7 @@ theater is a public plaza, including a fountain or splash pad
 (possibly an ice rink in winter), with shops on either
 side. Surrounding this are other restaurant and retail spaces.
 
-![town center overview](/images/towne_center_overview.png)
+![town center overview](/images/towne-center/overview.png)
 
 This shows the proposed buildings of the plan. You can see the
 apartment complex, rotated diagonally, so that residents are not
@@ -99,7 +100,7 @@ the sense that the street has wide sidewalks, landscaping, and traffic
 calming devices, so that cars are not speeding through the area and
 people can safely walk or bike from shop to shop.
 
-![town center plan](/images/towne_center_plan.png)
+![town center plan](/images/towne-center/plan.png)
 
 I have encouraged the developer to extend the feel of
 this street all the way to the movie theater. The parcel to the north
@@ -111,12 +112,12 @@ of the apartments as compared to the neighborhood homes. Rotating the
 building does provide increased space between the homes and the
 complex.
 
-![town center scale](/images/towne_center_scale.png)
+![town center scale](/images/towne-center/scale.png)
 
 The developers plan to put an exercise trail around the apartment
 complex, and this shows one proposed element of the trail.
 
-![town center trail](/images/towne_center_trail.png)
+![town center trail](/images/towne-center/trail.png)
 
 The following are computerized rendering of the apartments as seen
 from Harts. These are taken from when the complex had all wings with
@@ -124,15 +125,17 @@ five stories.
 
 First, the view from Harts:
 
-![town center view harts](/images/towne_center_view_harts.png)
+![town center view harts](/images/towne-center/view-harts.png)
 
 From north of the nearby roundabout:
 
-![town center view roundabout](/images/towne_center_view_roundabout.png)
+![town center view roundabout](/images/towne-center/view-roundabout.png)
 
 And from the golf course:
 
-![town center view course](/images/towne_center_view_course.png)
+![town center view course](/images/towne-center/view-course.png)
 
 Note that you can also see some of the earlier designed presented at
-previous planning commission meetings, held August 22 and September 26.
+previous planning commission meetings, held [August
+22](http://www.cedarhills.org/node/1824) and [September
+26](http://www.cedarhills.org/node/1824).
