@@ -4,7 +4,7 @@ Tags: development
 Slug: another-review-of-city-code
 Author: Daniel Zappala
 
-Doug White, the developer who is proposing to build a senior living
+Doug Young, the developer who is proposing to build a senior living
 facility near the roundabout by Walmart, has revised his proposal to
 reduce the building to three stories from its original five. However,
 I have continued to hear concerns from residents about the size of the
