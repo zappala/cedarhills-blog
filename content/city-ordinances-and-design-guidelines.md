@@ -75,10 +75,15 @@ In this document, on Page 31, you will see a map that divides the SC-1
 into three sub-districts: Neighborhood Retail (the area closest to
 4800 West), Mixed use Office/Retail (the area by the roundabout and
 bordering homes on 9980 N), and Mixed Use Office (covering the church,
-dental offices, and the Charleston). Interestingly, the area owned by
-the city is not included in this map, perhaps because that area was
-purchased with recreation development impact fees, and was originally
-intended as the location for a park or recreation center.
+dental offices, and the Charleston).
+
+![sub-districts](/images/design-guidelines/subdistricts.png)
+
+
+Interestingly, the area owned by the city is not included in this map,
+perhaps because that area was purchased with recreation development
+impact fees, and was originally intended as the location for a park or
+recreation center.
 
 Page 6 describes these areas in more detail.
 

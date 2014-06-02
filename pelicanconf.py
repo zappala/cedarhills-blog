@@ -22,7 +22,7 @@ LICENSE = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/
 TIMEZONE = 'US/Mountain'
 DEFAULT_LANG = u'en'
 
-# Tage cloud
+# Tag cloud
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 100
 
