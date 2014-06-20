@@ -166,9 +166,9 @@ Cedar Hills.
 Office space is planned for 1.5 acres, totalling 40,000 square feet,
 with retail space planned for 6.2 acres, totalling 134,000 square
 feet. This will be located near the intersection of Cedar Hills Drive
-and North County Bvld.
+and North County Blvd.
 
-![connector](/images/usdc/connector.png)
+![connector](/images/usdc/retail-office.png)
 
 The study also includes a retail analysis, which states:
 
