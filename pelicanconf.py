@@ -56,4 +56,4 @@ PLUGINS = ['assets','neighbors', 'summary']
 DISQUS_SITENAME	= 'cedarhillsblog'
 
 # For development only
-RELATIVE_URLS = False
+# RELATIVE_URLS = True
