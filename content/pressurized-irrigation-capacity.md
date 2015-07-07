@@ -100,7 +100,7 @@ lower zone. The upper zone serves roughly
 
 Using three different zones ensures that pressure is adequate to run
 irrigation systems without being so high that it breaks the pipes and
-sprinklers in residents' yards.
+sprinklers in resident yards.
 
 ## Study
 
@@ -127,7 +127,7 @@ day) versus a scenario in which the city is able to conserve water
 (3.5 million gallons per day).
 
 These graphs show the fluctuation over a period of three days, with
-low pressures occuring overnight when most people water their lawns
+low pressures occurring overnight when most people water their lawns
 and high pressure during the middle of the day.
 
 According to the model, Timpanogos Cove has the most significant
@@ -157,7 +157,7 @@ In this case, the results show that there is inadequate pressure in
 the neighborhoods surrounding Timpanogos Cove Park, as illustrated
 above.
 
-In addition, the are marginal pressures in some areas o fthe middle and
+In addition, the are marginal pressures in some areas of the middle and
 lower zones. The system experiences high velocities in excess of seven
 feet per second in several key pipes, which can wear them out prematurely.
 In addition, there are high pressure fluctuations in several areas. 
@@ -175,13 +175,13 @@ or installing waterwise landscaping, or the city installing meters on
 the system and residents reducing water consumption due to market
 forces.
 
-In this secnario, system pressures are significantly improved, and
+In this scenario, system pressures are significantly improved, and
 overall, pressures are much more stable. (See figures above.)
 
 In addition, pipe velocities are improved, leaving only a few trouble
 spots. These can be addressed by upsizing as needed when leaks occur.
 
-Even in this sencario, there is one concern for the city. The booster
+Even in this scenario, there is one concern for the city. The booster
 pump at the south CUP turnout is improperly located, causing low
 pressures for residents living north of the pump.  The city may need
 to examine reconfiguring this pump at some point in the future.
@@ -191,7 +191,7 @@ to examine reconfiguring this pump at some point in the future.
 Scenario 3 examines the system with water conservations methods in
 place, for a future when the city is completely built out. Results
 from this scenario indicate that *the pressurized irrigation system
-appears to have adequate capacity for buildout conditions if water
+appears to have adequate capacity for build out conditions if water
 conservation measures are implemented.*
 
 ### Scenario 4
@@ -219,7 +219,7 @@ overworked. If one of them fails, then the others would need to stay
 on for longer periods, which increases the likelihood that another
 failure occurs. In this case, the city would need to take immediate
 action to reduce demand on the system, unless we had already reduced
-demand due to consevation measures.
+demand due to conservation measures.
 
 ## Conservation
 

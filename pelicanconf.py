@@ -49,8 +49,8 @@ USER_LOGO_URL = "/images/zappala.jpg"
 THEME = "themes/pelican-sparrow"
 
 # Plugins
-PLUGIN_PATH = 'pelican-plugins'
-PLUGINS = ['assets','neighbors', 'summary']
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['neighbors', 'summary']
 
 # Comments
 DISQUS_SITENAME	= 'cedarhillsblog'
