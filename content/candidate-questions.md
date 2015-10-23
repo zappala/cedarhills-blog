@@ -52,10 +52,16 @@ randomized by the state.
   resource as we make decisions on city issues.
 
 **Chris Fowler**: I have no agenda and I love where I live.  In terms
-of accomplishment I hope to lend a stronger voice for young families.
-Cedar Hills is a young city: 11.6% of our population is under 5, 45.1%
-of our population is under 18. I have 4 boys under the age of 8.  I
-want to be a stronger voice for the majority of our residents.
+  of accomplishment I hope to lend a stronger voice for young
+  families.  Cedar Hills is a young city: 11.6% of our population is
+  under 5, 45.1% of our population is under 18. I have 4 boys under
+  the age of 8.  I want to be a stronger voice for the majority of our
+  residents.
+
+**Ben Bailey**: I would like to continue growing the city in a
+  positive direction.  We have great citizens that are highly active
+  throughout the community.  My goal is to work along side these
+  individuals and engage with them.
 
 ## Question 2
 
@@ -88,6 +94,15 @@ want to be a stronger voice for the majority of our residents.
 **Chris Fowler**: I have coached Cedar Hills tot soccer for 4 years.
   I am a watch dog at Cedar Ridge Elementary.  I have also had the
   opportunity to be a Scout Master for nearly 4 years.
+
+**Ben Bailey**: I have served the city as a volunteer firefighter
+  beginning in 2000.  Over the years I have been asked to find outside
+  funding options that will help alleviate the costs of public safety.
+  To date I have brought in $1.2 million to the fire department of
+  which $0 needs to be repaid.  I currently serve as a Battalion Chief
+  and the Fire Marshal. My main responsibilities are to keep our
+  citizens safe and to quickly & efficiently mitigate fire and medical
+  emergencies.
 
 ## Question 3
 
@@ -137,6 +152,11 @@ want to be a stronger voice for the majority of our residents.
   when it is clear in the city codes and plans that much of the land
   was planned for less intense.  This is why I am not for the current
   proposal.
+
+**Ben Bailey**: High density housing does not meet the spirit or
+  guidelines of our current commercial zone ordinance.  I believe in
+  property owners rights, but they ne to comply with the city
+  ordnances.
 
 ## Question 4
 
@@ -193,6 +213,11 @@ want to be a stronger voice for the majority of our residents.
   option is to embrace what we have and make it the best golf course
   in Utah County…it certainly has the potential to be!
 
+**Ben Bailey**: These options are in a rough draft form.  Currently
+  there is a golf course committee that is evaluating this issue.  I
+  feel that it represents both sides of the argument and will stand by
+  the decision that they recommend.
+
 ## Question 5
 
 ***
@@ -237,6 +262,9 @@ want to be a stronger voice for the majority of our residents.
 **Chris Fowler**: We do need to take a detailed look.  Have we lost
   business development options because of this?  It is certainly time
   to revisit this with major input coming from residents.
+
+**Ben Bailey**: I suggest that the language be clear as to what
+  exactly is allowed within the different zoning areas.
 
 ## Question 6
 
@@ -319,6 +347,14 @@ want to be a stronger voice for the majority of our residents.
   nights, bunko book clubs, emergency preparedness classes, youth
   activities, etc.
 
+**Ben Bailey**: The basement of the community center is rarely used.
+  The Vista Room however sees a lot of venues which bring in $80,000
+  to our coffers.  Prior to limiting the rental of our Vista Room I
+  would like to see the basement utilized to its capacity.  I would
+  like to see children's activities brought into the basement.  An
+  area that provides a communal library (leave a book, take a book),
+  art classes, boys & girls center, etc. would be awesome to see.
+
 ## Question 7
 
 ***
@@ -370,6 +406,13 @@ want to be a stronger voice for the majority of our residents.
   can all be proud of.  At the end of the day the city needs to look
   at all options including lowering cost for the space, revenue
   sharing, etc.
+
+**Ben Bailey**: The grill has the opportunity to attract different
+  types of customers.  There are residents, golfers, reception
+  parties, etc. that all could contribute the success of the grill.
+  The key is to find a business plan that will work within our
+  community.  I feel that we can find an entrepreneur that would be
+  able to maximize the potential of this area.
 
 ## Question 8
 
@@ -427,6 +470,10 @@ want to be a stronger voice for the majority of our residents.
   we continue our current efforts.  Metering will ultimately be the
   solution but let’s wait to see where the state goes.
 
+**Ben Bailey**: $2 million for meters is a lot of money.  Let's
+  continue with our current program of educating the citizens and
+  having set watering days.
+
 ## Question 9
 
 ***
@@ -458,6 +505,10 @@ want to be a stronger voice for the majority of our residents.
   continue to be involved with Cedar Hills sports teams, be part of
   this great community and be a connection between city government and
   residents.
+
+**Ben Bailey**: I will continue serving the citizens in my current
+  capacity.  Public safety is in my heart and I will always be a
+  volunteer.
 
 ## Question 10
 
@@ -491,6 +542,10 @@ want to be a stronger voice for the majority of our residents.
   up the phone and make calls to residents (we do a good job getting
   candidates names out there during campaign season, I don’t see why
   it would be impossible to get the issues out there as well)
+
+**Ben Bailey**: Word of mouth and social media are great mediums for
+  communication.  I feel that a city sponsored FB page could be a
+  great way to get information out.
 
 ## Question 11
 
@@ -541,6 +596,10 @@ concerns?*
   facilitates resident feedback?  It also can keep people informed of
   city events, decisions, emergency preparedness, activities, etc.
 
+**Ben Bailey**: I believe that #10 is a great way to address this.
+  Through interacting with the citizens on a regular basis, the
+  council can get a good feel on what the citizens are wanting.
+
 ## Question 12
 
 ***
@@ -578,6 +637,11 @@ steps would you take to see that this concern is resolved?*
   the issue to City Council members, (3) Follow up on possible
   solutions, (4) Work to implement solution, (5) Express gratitude for
   those who helped.
+
+**Ben Bailey**: First of all is take it to the source.  Many concerns
+  are simply miscommunication.  Find out the facts from the source and
+  move from there.  If there is still an issue, then work through the
+  process.  Find out the facts, discuss, vote, and move on.
 
 ## Candidate Blogs
 
